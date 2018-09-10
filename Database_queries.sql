@@ -16,4 +16,4 @@ drop <data_base>;
 
 
 //check what database is in use
-select database;
+select database();
