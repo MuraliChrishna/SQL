@@ -1,0 +1,16 @@
+##Tables
+
+/*
+create a table
+
+--> datatypes 
+// INT( max 4294967295)
+// VarChar (max 255)
+*/ 
+
+create table Cats
+(
+Name varchar(100),
+Breed varchar(100),
+age int
+);
